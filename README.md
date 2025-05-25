@@ -1,4 +1,4 @@
-# EDA
+# Wine Quality Visualization
 1. Using the sample dataset: "Wine Quality"
 2. EDA for this dataset: both in data visualization, Statistics and Mathematics.
 3. Language: Python
